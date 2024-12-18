@@ -1,43 +1,41 @@
 ## Hi, I'm Jainam Patel! 👋
-About Me
-🎓 2nd Year BE in Computer Science
-💻 Aspiring Software Development Engineer (SDE)
-🌐 Full Stack Developer with a passion for building impactful digital solutions. 
 
+##🌟 About Me
 
-🚀 What I'm Working On
-🔭 Currently learning advanced system design and sharpening my problem-solving skills.
-🌱 Diving deeper into TypeScript and performance optimization for scalable applications.
-📚 Active in open-source contributions to collaborate and grow with the community.
+🎓 2nd Year BE Student in Computer Science💻 Aspiring Software Developer 🌐 Full Stack Developer passionate about building impactful digital solutions.
 
+##🚀 What I'm Working On
 
-🌟 Skills
-Frontend: React.js, Next.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, Hono (Cloudflare Workers)
-Database: MongoDB, Upstash, Firebase
-Cloud: AWS, Render, Vercel
-Other Tools: Git, Docker, Postman
-<img src="https://github-readme-stats.vercel.app/api?username=jainampatel22&show_icons=true&theme=ADD_THEME_HERE" width="400">
+🔭 Currently focused on advanced system design and improving my problem-solving skills.🌱 Exploring TypeScript and techniques for performance optimization in scalable applications.📚 Actively contributing to open-source projects to collaborate and grow with the tech community.
 
-📫 Let's Connect!
-LinkedIn:linkedin.com/in/pateljainam/
-Twitter: x.com/Jainam___patel
-Portfolio: soon
-🙌 Open to collaborations and exciting projects. Let’s build something awesome together!
+##💻 My Tech Stack
 
+##🌐 Frontend
 
+React.js, Next.js, HTML, CSS, JavaScript
 
-<!--
-**jainampatel22/jainampatel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖀️ Backend
 
-Here are some ideas to get you started:
+Node.js, Express.js, Hono (Cloudflare Workers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💄 Database
+
+MongoDB, Upstash, Firebase
+
+## ☁️ Cloud Platforms
+
+AWS, Render, Vercel
+
+## ⚙️ Other Tools
+
+Git, Docker, Postman
+
+## 📧 Let's Connect!
+
+LinkedIn: linkedin.com/in/pateljainam/
+
+Twitter: twitter.com/Jainam___patel
+
+Portfolio: Coming Soon!
+
+## 🙌 I’m always open to collaborations and exciting projects. Let’s connect and create something awesome!
