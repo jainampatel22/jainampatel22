@@ -1,4 +1,4 @@
- Hi, I'm Jainam Patel! 👋
+## Hi, I'm Jainam Patel! 👋
 About Me
 🎓 2nd Year BE in Computer Science
 💻 Aspiring Software Development Engineer (SDE)
